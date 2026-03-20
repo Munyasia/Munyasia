@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner3.png" alt="Banner" width="100%">
+  <img src="Banner3.png" alt="Banner3" width="100%">
 </div>
 
 # 👋 Hi, I'm Brian Munyasia Musanga
