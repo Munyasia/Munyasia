@@ -7,9 +7,9 @@
 **Cybersecurity Specialist** · **Full‑Stack Developer** · **Graphic Designer**  
 *Building secure systems, crafting clean code, and creating compelling visuals.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/brian-munyasia-bm5777)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:brianmuse624@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-181717?style=flat&logo=github)](https://github.com/Munyasia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-munyasia-bm5777)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmuse624@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 <!-- Visitor Counter -->
 <div align="center">
@@ -32,12 +32,14 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **SOC Fundamentals** – Incident response, monitoring, and reporting
 
 **🛠️ Tools:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Metasploit-008C8C?style=flat" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </div>
 </div>
 
 ---
@@ -49,12 +51,14 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **Backend Integration** – Hybrid databases, REST APIs, scalable architectures
 
 **🛠️ Tools:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </div>
 </div>
 
 ---
@@ -66,11 +70,13 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **Client Work** – Increased engagement by 40% for a local client through targeted visuals
 
 **🛠️ Tools:**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </div>
 </div>
 
 ---
@@ -80,7 +86,7 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 | Cybersecurity Projects | Development & AI Projects | Graphic Design Projects |
 |------------------------|--------------------------|-------------------------|
 | 🔒 [TryHackMe PenTest Labs](https://tryhackme.com/p/brian.musanga) | 🧠 [Jadi – Academic Document Categorizer](link) | 🎨 [Social Media Campaign (40% engagement boost)](link) |
-| 📊 [Network Analysis Labs](link) | 🌐 [Panama General Agencies Website](panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=flat&logo=vercel" alt="Live Demo"></a> | 📹 [Non‑profit Event Video Campaign](link) |
+| 📊 [Network Analysis Labs](link) | 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📹 [Non‑profit Event Video Campaign](link) |
 | 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | ⚙️ [OCR + Semantic Search Pipeline](link) | 🖼️ [Branding & Poster Design Portfolio](link) |
 
 *More repositories coming soon…*
@@ -112,6 +118,6 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 ## 🤝 Let’s Connect
 
 I'm open to opportunities where I can combine technical security, development, and creative design.  
-📫 **Email:** brianmuse624@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/www.linkedin.com/in/brian-munyasia-bm5777](www.linkedin.com/in/brian-munyasia-bm5777)  
+📫 **Email:** brianmuse624@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/brian-munyasia-bm5777](https://www.linkedin.com/in/brian-munyasia-bm5777)  
 🌐 **Portfolio:** *Coming soon*
