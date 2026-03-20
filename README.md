@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="Banner 3.png" alt="Banner" width="100%">
+  <img src="Banner3.png" alt="Banner" width="100%">
 </div>
 
-# 👋 Hi, I'm Brian Munyasia Musanga
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=SECURING+SYSTEMS;DEFENDING+NETWORKS;BUILDING+SECURE+FUTURES" alt="Typing SVG" />
+</div>
+
+# 😉 Hi, I'm  Munyasia, Nice to meet you
 
 **Cybersecurity Specialist** · **Full‑Stack Developer** · **Graphic Designer**  
 *Building secure systems, crafting clean code, and creating compelling visuals.*
