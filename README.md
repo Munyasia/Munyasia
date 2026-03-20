@@ -32,10 +32,10 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 
 ## 🛡️ Cybersecurity
 
-- **Penetration Testing** – TryHackMe (Cyber 101, Pre‑Security, Penetration Testing Path)  
-- **Network Analysis & Linux** – Hands‑on labs, reconnaissance, vulnerability identification  
-- **Threat Intelligence** – Log analysis, IOC detection, malware activity identification  
-- **SOC Fundamentals** – Incident response, monitoring, and reporting
+**Penetration Testing** – TryHackMe (Cyber 101, Pre‑Security, Penetration Testing Path)  
+**Network Analysis & Linux** – Hands‑on labs, reconnaissance, vulnerability identification  
+**Threat Intelligence** – Log analysis, IOC detection, malware activity identification  
+**SOC Fundamentals** – Incident response, monitoring, and reporting
 
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
@@ -67,9 +67,9 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 
 ## 💻 Development & AI
 
-- **Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
-- **AI Automation** – Google Gemini, LangChain, OCR processing, semantic search  
-- **Backend Integration** – Hybrid databases, REST APIs, scalable architectures
+**Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
+**AI Automation** – Google Gemini, LangChain, OCR processing, semantic search  
+**Backend Integration** – Hybrid databases, REST APIs, scalable architectures
 
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
@@ -101,9 +101,9 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 
 ## 🎨 Graphic Design
 
-- **Brand Identity & Marketing** – Posters, banners, flyers, social media graphics  
-- **Video Editing** – Short campaigns, promotional videos  
-- **Client Work** – Increased engagement by 40% for a local client through targeted visuals
+**Brand Identity & Marketing** – Posters, banners, flyers, social media graphics  
+**Video Editing** – Short campaigns, promotional videos  
+**Client Work** – Increased engagement by 40% for a local client through targeted visuals
 
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
