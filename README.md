@@ -145,11 +145,11 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 
 <div style="display: flex; flex-direction: column; gap: 12px;">
   <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/isc2/000000" width="28" height="28" alt="ISC2">
+    <img src="https://cdn.simpleicons.org/isc2/white" width="28" height="28" alt="ISC2">
     <span><strong>ISC2 Candidate</strong> – Credly by Pearson</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/moringa/000000" width="28" height="28" alt="Moringa School" onerror="this.style.display='none'">
+    <span style="font-size: 28px;">🎓</span>
     <span><strong>Cybersecurity Certification</strong> – Moringa School</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
@@ -157,7 +157,7 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
     <span><strong>Bachelor's in Computer Science</strong> – Maasai Mara University</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="28" height="28" alt="TryHackMe">
+    <img src="https://cdn.simpleicons.org/tryhackme/white" width="28" height="28" alt="TryHackMe">
     <span><strong>TryHackMe</strong> – Cyber 101, Pre‑Security, Penetration Testing Paths</span>
   </div>
 </div>
