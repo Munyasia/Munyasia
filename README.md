@@ -40,23 +40,23 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Linux</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="36" height="36" alt="Wireshark" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Wireshark</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="auto" height="36" alt="Nmap" style="transition: transform 0.2s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Nmap</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/metasploit/008C8C" width="36" height="36" alt="Metasploit" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Metasploit</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="36" height="36" alt="Burp Suite" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Burp Suite</span>
     </div>
@@ -74,23 +74,23 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Python</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">JavaScript</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Next.js</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">PostgreSQL</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firestore" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Firestore</span>
     </div>
@@ -108,19 +108,19 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 **🛠️ Tools:**  
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="36" height="36" alt="Photoshop" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Photoshop</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="36" height="36" alt="Premiere Pro" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Premiere Pro</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="36" height="36" alt="Illustrator" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Illustrator</span>
     </div>
-    <div style="display: inline-flex; align-items: center; gap: 8px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
       <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <span style="font-size: 16px; font-weight: 500;">Figma</span>
     </div>
