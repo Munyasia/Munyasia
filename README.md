@@ -1,5 +1,6 @@
-<!-- Banner (optional) -->
-<!-- ![Banner](banner.png) -->
+<div align="center">
+  <img src="Banner3.png" alt="Banner" width="100%">
+</div>
 
 # 👋 Hi, I'm Brian Munyasia Musanga
 
