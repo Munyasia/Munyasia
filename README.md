@@ -38,13 +38,28 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **SOC Fundamentals** – Incident response, monitoring, and reporting
 
 **🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Linux</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Wireshark</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/nmap/4682B4" width="48" height="48" alt="Nmap" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Nmap</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/metasploit/008C8C" width="48" height="48" alt="Metasploit" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Metasploit</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Burp Suite</div>
+    </div>
   </div>
 </div>
 
@@ -57,13 +72,28 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **Backend Integration** – Hybrid databases, REST APIs, scalable architectures
 
 **🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Python</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">JavaScript</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="48" height="48" alt="Next.js" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Next.js</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">PostgreSQL</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firestore" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Firestore</div>
+    </div>
   </div>
 </div>
 
@@ -76,12 +106,24 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 - **Client Work** – Increased engagement by 40% for a local client through targeted visuals
 
 **🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 15px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Photoshop" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Photoshop</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="48" height="48" alt="Premiere Pro" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Premiere Pro</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="48" height="48" alt="Illustrator" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Illustrator</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Figma</div>
+    </div>
   </div>
 </div>
 
