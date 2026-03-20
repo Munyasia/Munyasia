@@ -49,7 +49,7 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
       <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Wireshark</div>
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.simpleicons.org/nmap/4682B4" width="48" height="48" alt="Nmap" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="48" height="28" alt="Nmap" style="transition: transform 0.2s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <div style="font-size: 14px; font-weight: 500; margin-top: 8px;">Nmap</div>
     </div>
     <div style="text-align: center;">
