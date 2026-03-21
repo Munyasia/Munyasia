@@ -71,6 +71,13 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 
 A full‑scope post‑breach security analysis, log review, and incident response report.  
 Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.
+I as the Director of IT led the Marvin the Martian SOC team through:
+
+- **Passive reconnaissance** – analysed firewall, IDS, and core switch logs to reconstruct the attack timeline without touching live systems.  
+- **Honeypot simulation** – deployed a Tier‑1 Netcat listener (detected internal reconnaissance) and a Tier‑2 Cowrie SSH honeypot (captured simulated attacker commands, including brute‑force attempts and file downloads).  
+- **Vulnerability identification** – discovered critical gaps: IPS in detect‑only mode (1,271 exploit attempts allowed), an exposed CIFS share containing next‑gen anvil designs, end‑of‑life operating systems (Windows XP, Ubuntu 12.04/14.04/18.04), and a flat network architecture that enabled lateral movement.  
+
+The final report includes a detailed attack timeline, risk register, and a prioritised remediation roadmap with immediate, short‑term, and long‑term actions.
 
 [![ACME Anvils Security Assessment](acme-pentest-workflow.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
 
