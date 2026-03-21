@@ -64,7 +64,18 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 </div>
 
 ---
+---
+## 🚀 Recently Featured Work
 
+[![ACME Anvils Security Assessment](privillage-escalation.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
+
+### 🔥 ACME Anvils – Security Assessment & Incident Response
+
+A full‑scope post‑breach security analysis, log review, and incident response report.  
+Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.
+
+📄 **[View the full report →](https://github.com/Munyasia/acme-anvils-security-assessment)**
+---
 ## 💻 Development & AI
 
 **Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
