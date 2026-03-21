@@ -134,7 +134,7 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 | Cybersecurity Projects | Development & AI Projects | Graphic Design Projects |
 |------------------------|--------------------------|-------------------------|
 | 🔒 [TryHackMe PenTest Labs](https://tryhackme.com/p/brian.musanga) | 🧠 [Jadi – Academic Document Categorizer](link) | 🎨 [Social Media Campaign (40% engagement boost)](link) |
-| 📊 [Network Analysis Labs](link) | 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📹 [Non‑profit Event Video Campaign](link) |
+| 📊 [Network Analysis Labs](https://github.com/Munyasia/network-analysis-lab-wireshark) | 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📹 [Non‑profit Event Video Campaign](link) |
 | 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | ⚙️ [OCR + Semantic Search Pipeline](link) | 🖼️ [Branding & Poster Design Portfolio](link) |
 
 *More repositories coming soon…*
