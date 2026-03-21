@@ -72,7 +72,7 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 A full‑scope post‑breach security analysis, log review, and incident response report.  
 Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.
 
-[![ACME Anvils Security Assessment](acme-attack-chain.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
+[![ACME Anvils Security Assessment](acme-pentest-workflow.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
 
 📄 **[View the full report →](https://github.com/Munyasia/acme-anvils-security-assessment)**
 ---
