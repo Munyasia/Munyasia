@@ -185,14 +185,9 @@ The final report includes a detailed attack timeline, risk register, and a prior
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munyasia&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munyasia&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munyasia&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munyasia&theme=merko&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munyasia&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%">
-</div>
-
 ---
 
 ## 🤝 Let’s Connect
