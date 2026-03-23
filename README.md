@@ -64,13 +64,13 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
 </div>
 
 ---
----
+
 ## 🚀 Recently Featured Work
 
 ### 🔥 ACME Anvils – Security Assessment & Incident Response
 
 A full‑scope post‑breach security analysis, log review, and incident response report.  
-Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.
+Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.  
 I as the Director of IT led the Marvin the Martian SOC team through:
 
 - **Passive reconnaissance** – analysed firewall, IDS, and core switch logs to reconstruct the attack timeline without touching live systems.  
@@ -82,7 +82,9 @@ The final report includes a detailed attack timeline, risk register, and a prior
 [![ACME Anvils Security Assessment](acme-pentest-workflow.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
 
 📄 **[View the full report →](https://github.com/Munyasia/acme-anvils-security-assessment)**
+
 ---
+
 ## 💻 Development & AI
 
 **Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
@@ -185,9 +187,10 @@ The final report includes a detailed attack timeline, risk register, and a prior
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munyasia&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munyasia&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munyasia&theme=algolia&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
+
 ---
 
 ## 🤝 Let’s Connect
@@ -195,4 +198,4 @@ The final report includes a detailed attack timeline, risk register, and a prior
 I'm open to opportunities where I can combine technical security, development, and creative design.  
 📫 **Email:** brianmuse624@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/brian-munyasia-bm5777](https://www.linkedin.com/in/brian-munyasia-bm5777)  
-🌐 **Portfolio:** [github.com/in/Munyasia](https://munyasia.github.io/Munyasia) 
+🌐 **Portfolio:** [munyasia.github.io/Munyasia](https://munyasia.github.io/Munyasia)
