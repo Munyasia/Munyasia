@@ -8,139 +8,75 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=BUILDING+SCALABLE+APPS;SECURING+SYSTEMS;SHIPPING+CLEAN+CODE;DEFENDING+NETWORKS" alt="Typing SVG" />
 </div>
 
-# 😉 Hi, I'm Munyasia, Nice to meet you
+<div align="center">
 
-**Full‑Stack Developer** · **Cybersecurity Specialist** · **Graphic Designer**  
-*Crafting clean code, securing systems, and creating compelling visuals.*
+# 😉 Hi, I'm Munyasia
+
+Full‑stack developer by day, security specialist by design — building clean systems and breaking broken ones.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-munyasia-bm5777)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmuse624@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white)](https://munyasia.github.io/Munyasia/)
 
 <!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Munyasia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Munyasia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding: 24px; background-color: #f6f8fa;">
 
-I'm a Computer Science graduate with hands‑on experience in **full‑stack development**, **cybersecurity**, and **graphic design**. I love solving complex problems—whether it's building intelligent web apps, hardening networks, or designing visuals that tell a story. My background in customer service and teamwork helps me translate technical concepts into user‑friendly solutions.
-
----
-
-## 💻 Development & AI
+### 💻 Developer
 
 **Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
 **AI Automation** – Google Gemini, LangChain, OCR processing, semantic search  
 **Backend Integration** – Hybrid databases, REST APIs, scalable architectures
 
-**🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Python</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">JavaScript</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Next.js</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">PostgreSQL</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firestore" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Firestore</span>
-    </div>
-  </div>
-</div>
+**Featured:**
 
-### 🚀 Featured Project — Beliways Adventures
+- 🌐 **[Beliways Adventures](https://beliwaysadventures.vercel.app)** – tours & hotels platform covering 77 properties across Kenyan regions (Nairobi, Mombasa, Lamu, and more), with a standardized content structure across all listings.
+- 🛒 **[Lirasoninvestment](https://lirasoninvestments.vercel.app)** – ecommerce platform with a custom backend and multiple frontend components, built around a clean browsing and checkout flow.
 
-A tours and hotels booking platform covering **77 properties** across Kenyan regions (Nairobi, Mombasa, Lamu, and more).
+<p align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python">&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript">&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="32" height="32" alt="Next.js">&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="PostgreSQL">&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="32" height="32" alt="Firestore">
+</p>
 
-Key parts of the build:
+</td>
+<td width="50%" valign="top" style="padding: 24px; background-color: #0d1117;">
 
-- **Multi-region property catalog** – structured 77 property listings across multiple Kenyan regions, each with consistent data for pricing, amenities, and media.
-- **Parallel repair workflow** – ran a parallel, multi-track process to audit and fix broken or incomplete property pages across the catalog, cutting the fix time down significantly compared to a serial pass.
-- **Consistent content structure** – standardized property page layout and content across regions so listings stay uniform regardless of property type or location.
-- **Deployment** – deployed on Vercel for fast, reliable delivery.
+### 🛡️ Security
 
-[![Tours & Hotels Platform](beliways-screenshot.png)](https://beliwaysadventures.vercel.app)
-
-📄 **[View the project →](https://beliwaysadventures.vercel.app)**
-
-### 🚀 Featured Project — Lirasoninvestment
-
-An ecommerce platform built with a custom backend and multiple frontend components, focused on a clean product browsing and checkout experience.
-
-Key parts of the build:
-
-- **Backend & frontend integration** – built a complete backend alongside multiple frontend components, tying product data, cart logic, and checkout flow into one cohesive architecture.
-- **Design-to-code rebuild** – took an externally generated product page design and rebuilt it natively within the existing codebase's architecture and conventions, keeping it consistent with the rest of the site's component structure and state management rather than importing it wholesale.
-- **Deployment** – deployed on Vercel for fast, reliable delivery.
-
-[![Lirasoninvestment](lirason-screenshot.png)](https://lirasoninvestments.vercel.app)
-
-📄 **[View the project →](https://lirasoninvestments.vercel.app)**
-
----
-
-## 🛡️ Cybersecurity
+<span style="color:#c9d1d9;">
 
 **Penetration Testing** – TryHackMe (Cyber 101, Pre‑Security, Penetration Testing Path)  
 **Network Analysis & Linux** – Hands‑on labs, reconnaissance, vulnerability identification  
 **Threat Intelligence** – Log analysis, IOC detection, malware activity identification  
 **SOC Fundamentals** – Incident response, monitoring, and reporting
 
-**🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Linux</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="36" height="36" alt="Wireshark" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Wireshark</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" width="auto" height="36" alt="Nmap" style="transition: transform 0.2s; border-radius: 4px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Nmap</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/metasploit/008C8C" width="36" height="36" alt="Metasploit" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Metasploit</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="36" height="36" alt="Burp Suite" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Burp Suite</span>
-    </div>
-  </div>
-</div>
+**Featured:**
 
-### 🔥 ACME Anvils – Security Assessment & Incident Response
+</span>
 
-A full‑scope post‑breach security analysis, log review, and incident response report.  
-Key findings include IPS detect‑only mode, exposed CIFS share, end‑of‑life systems, and flat network architecture.  
-I as the Director of IT led the Marvin the Martian SOC team through:
+- 🔥 **[ACME Anvils – Security Assessment & IR](https://github.com/Munyasia/acme-anvils-security-assessment)** <span style="color:#c9d1d9;">– full post‑breach analysis for a simulated org: passive log reconstruction, a two‑tier honeypot simulation, and a prioritised remediation roadmap covering IPS gaps, an exposed CIFS share, and end‑of‑life systems.</span>
 
-- **Passive reconnaissance** – analysed firewall, IDS, and core switch logs to reconstruct the attack timeline without touching live systems.  
-- **Honeypot simulation** – deployed a Tier‑1 Netcat listener (detected internal reconnaissance) and a Tier‑2 Cowrie SSH honeypot (captured simulated attacker commands, including brute‑force attempts and file downloads).  
-- **Vulnerability identification** – discovered critical gaps: IPS in detect‑only mode (1,271 exploit attempts allowed), an exposed CIFS share containing next‑gen anvil designs, end‑of‑life operating systems (Windows XP, Ubuntu 12.04/14.04/18.04), and a flat network architecture that enabled lateral movement.  
+<p align="center">
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="32" height="32" alt="Linux">&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="32" height="32" alt="Wireshark">&nbsp;
+<img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" height="32" alt="Nmap">&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/008C8C" width="32" height="32" alt="Metasploit">&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="32" height="32" alt="Burp Suite">
+</p>
 
-The final report includes a detailed attack timeline, risk register, and a prioritised remediation roadmap with immediate, short‑term, and long‑term actions.
-
-[![ACME Anvils Security Assessment](acme-pentest-workflow.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
-
-📄 **[View the full report →](https://github.com/Munyasia/acme-anvils-security-assessment)**
+</td>
+</tr>
+</table>
 
 ---
 
