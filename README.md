@@ -77,6 +77,20 @@ Key parts of the build:
 
 📄 **[View the project →](https://beliwaysadventures.vercel.app)**
 
+### 🚀 Featured Project — Lirasoninvestment
+
+An ecommerce platform built with a custom backend and multiple frontend components, focused on a clean product browsing and checkout experience.
+
+Key parts of the build:
+
+- **Backend & frontend integration** – built a complete backend alongside multiple frontend components, tying product data, cart logic, and checkout flow into one cohesive architecture.
+- **Design-to-code rebuild** – took an externally generated product page design and rebuilt it natively within the existing codebase's architecture and conventions, keeping it consistent with the rest of the site's component structure and state management rather than importing it wholesale.
+- **Deployment** – deployed on Vercel for fast, reliable delivery.
+
+[![Lirasoninvestment](lirason-screenshot.png)](https://lirasoninvestments.vercel.app)
+
+📄 **[View the project →](https://lirasoninvestments.vercel.app)**
+
 ---
 
 ## 🛡️ Cybersecurity
@@ -165,8 +179,9 @@ The final report includes a detailed attack timeline, risk register, and a prior
 | Development & AI Projects | Cybersecurity Projects | Graphic Design Projects |
 |---------------------------|-------------------------|--------------------------|
 | 🌐 [Beliways Adventures (77 properties, Kenya)](https://beliwaysadventures.vercel.app) | 🔒 [TryHackMe PenTest Labs](https://tryhackme.com/p/brian.musanga) | 🎨 [Social Media Campaign (40% engagement boost)](link) |
-| 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📊 [Network Analysis Labs](https://github.com/Munyasia/network-analysis-lab-wireshark) | 📹 [Non‑profit Event Video Campaign](link) |
-| 🧠 [Jadi – Academic Document Categorizer](link) | 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | 🖼️ [Branding & Poster Design Portfolio](link) |
+| 🛒 [Lirasoninvestment (Ecommerce)](https://lirasoninvestments.vercel.app) | 📊 [Network Analysis Labs](https://github.com/Munyasia/network-analysis-lab-wireshark) | 📹 [Non‑profit Event Video Campaign](link) |
+| 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | 🖼️ [Branding & Poster Design Portfolio](link) |
+| 🧠 [Jadi – Academic Document Categorizer](link) | | |
 | ⚙️ [OCR + Semantic Search Pipeline](link) | | |
 
 *More repositories coming soon…*
