@@ -5,13 +5,13 @@
 <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #8A2BE2, transparent); margin: 20px 0;">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=SECURING+SYSTEMS;DEFENDING+NETWORKS;BUILDING+SECURE+FUTURES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=520&lines=BUILDING+SCALABLE+APPS;SECURING+SYSTEMS;SHIPPING+CLEAN+CODE;DEFENDING+NETWORKS" alt="Typing SVG" />
 </div>
 
 # 😉 Hi, I'm Munyasia, Nice to meet you
 
-**Cybersecurity Specialist** · **Full‑Stack Developer** · **Graphic Designer**  
-*Building secure systems, crafting clean code, and creating compelling visuals.*
+**Full‑Stack Developer** · **Cybersecurity Specialist** · **Graphic Designer**  
+*Crafting clean code, securing systems, and creating compelling visuals.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-munyasia-bm5777)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmuse624@gmail.com)
@@ -26,7 +26,56 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science graduate with hands‑on experience in **cybersecurity**, **full‑stack development**, and **graphic design**. I love solving complex problems—whether it's hardening networks, building intelligent web apps, or designing visuals that tell a story. My background in customer service and teamwork helps me translate technical concepts into user‑friendly solutions.
+I'm a Computer Science graduate with hands‑on experience in **full‑stack development**, **cybersecurity**, and **graphic design**. I love solving complex problems—whether it's building intelligent web apps, hardening networks, or designing visuals that tell a story. My background in customer service and teamwork helps me translate technical concepts into user‑friendly solutions.
+
+---
+
+## 💻 Development & AI
+
+**Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
+**AI Automation** – Google Gemini, LangChain, OCR processing, semantic search  
+**Backend Integration** – Hybrid databases, REST APIs, scalable architectures
+
+**🛠️ Tools:**  
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <span style="font-size: 16px; font-weight: 500;">Python</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <span style="font-size: 16px; font-weight: 500;">JavaScript</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <span style="font-size: 16px; font-weight: 500;">Next.js</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <span style="font-size: 16px; font-weight: 500;">PostgreSQL</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 8px;">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firestore" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <span style="font-size: 16px; font-weight: 500;">Firestore</span>
+    </div>
+  </div>
+</div>
+
+### 🚀 Featured Project — Beliways Adventures
+
+A tours and hotels booking platform covering **77 properties** across Kenyan regions (Nairobi, Mombasa, Lamu, and more), rebuilt and repaired using an AI‑assisted, multi‑agent engineering workflow.
+
+Key parts of the build:
+
+- **8‑agent parallel architecture** – designed and coordinated eight Claude Code agents running in parallel, each responsible for auditing and repairing a slice of the property catalog, cutting what would have been a serial fix into a much faster parallel pass.
+- **Reference‑driven content repair** – used bountifulsafaris.com as a structural and content reference to identify and correct broken or incomplete property pages across the site.
+- **MCP‑integrated tooling** – diagnosed and worked around live MCP server connection issues (including a Higgsfield image‑processing outage) as part of keeping the automated workflow running.
+- **Regional data modeling** – organized listings across multiple Kenyan tourism regions with consistent structure for pricing, amenities, and media.
+
+[![Tours & Hotels Platform](beliways-screenshot.png)](https://beliwaysadventures.vercel.app)
+
+📄 **[View the project →](https://beliwaysadventures.vercel.app)**
 
 ---
 
@@ -63,10 +112,6 @@ I'm a Computer Science graduate with hands‑on experience in **cybersecurity**,
   </div>
 </div>
 
----
-
-## 🚀 Recently Featured Work
-
 ### 🔥 ACME Anvils – Security Assessment & Incident Response
 
 A full‑scope post‑breach security analysis, log review, and incident response report.  
@@ -82,40 +127,6 @@ The final report includes a detailed attack timeline, risk register, and a prior
 [![ACME Anvils Security Assessment](acme-pentest-workflow.png)](https://github.com/Munyasia/acme-anvils-security-assessment)
 
 📄 **[View the full report →](https://github.com/Munyasia/acme-anvils-security-assessment)**
-
----
-
-## 💻 Development & AI
-
-**Full‑Stack Web Apps** – Next.js, Tailwind CSS, PostgreSQL, Firestore  
-**AI Automation** – Google Gemini, LangChain, OCR processing, semantic search  
-**Backend Integration** – Hybrid databases, REST APIs, scalable architectures
-
-**🛠️ Tools:**  
-<div style="background-color: #f6f8fa; padding: 20px; border-radius: 12px; margin: 10px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Python</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">JavaScript</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Next.js</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">PostgreSQL</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firestore" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <span style="font-size: 16px; font-weight: 500;">Firestore</span>
-    </div>
-  </div>
-</div>
 
 ---
 
@@ -151,11 +162,12 @@ The final report includes a detailed attack timeline, risk register, and a prior
 
 ## 📌 Featured Work
 
-| Cybersecurity Projects | Development & AI Projects | Graphic Design Projects |
-|------------------------|--------------------------|-------------------------|
-| 🔒 [TryHackMe PenTest Labs](https://tryhackme.com/p/brian.musanga) | 🧠 [Jadi – Academic Document Categorizer](link) | 🎨 [Social Media Campaign (40% engagement boost)](link) |
-| 📊 [Network Analysis Labs](https://github.com/Munyasia/network-analysis-lab-wireshark) | 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📹 [Non‑profit Event Video Campaign](link) |
-| 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | ⚙️ [OCR + Semantic Search Pipeline](link) | 🖼️ [Branding & Poster Design Portfolio](link) |
+| Development & AI Projects | Cybersecurity Projects | Graphic Design Projects |
+|---------------------------|-------------------------|--------------------------|
+| 🌐 [Beliways Adventures (77 properties, Kenya)](https://beliwaysadventures.vercel.app) | 🔒 [TryHackMe PenTest Labs](https://tryhackme.com/p/brian.musanga) | 🎨 [Social Media Campaign (40% engagement boost)](link) |
+| 🌐 [Panama General Agencies Website](https://panamageneralagencies.com) <br> <a href="https://panamageneralagencies.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-Panama_General_Agencies-2ea44f?style=for-the-badge&logo=vercel" alt="Live Demo"></a> | 📊 [Network Analysis Labs](https://github.com/Munyasia/network-analysis-lab-wireshark) | 📹 [Non‑profit Event Video Campaign](link) |
+| 🧠 [Jadi – Academic Document Categorizer](link) | 🛠️ [IOC Detection & Log Analysis](https://cyberdefenders.org) | 🖼️ [Branding & Poster Design Portfolio](link) |
+| ⚙️ [OCR + Semantic Search Pipeline](link) | | |
 
 *More repositories coming soon…*
 
@@ -165,16 +177,16 @@ The final report includes a detailed attack timeline, risk register, and a prior
 
 <div style="display: flex; flex-direction: column; gap: 12px;">
   <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/isc2/white" width="28" height="28" alt="ISC2">
-    <span><strong>ISC2 Candidate</strong> – Credly by Pearson</span>
+    <span style="font-size: 28px;">🎓</span>
+    <span><strong>Bachelor's in Computer Science</strong> – Maasai Mara University</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
     <span style="font-size: 28px;">🎓</span>
     <span><strong>Cybersecurity Certification</strong> – Moringa School</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
-    <span style="font-size: 28px;">🎓</span>
-    <span><strong>Bachelor's in Computer Science</strong> – Maasai Mara University</span>
+    <img src="https://cdn.simpleicons.org/isc2/white" width="28" height="28" alt="ISC2">
+    <span><strong>ISC2 Candidate</strong> – Credly by Pearson</span>
   </div>
   <div style="display: flex; align-items: center; gap: 12px;">
     <img src="https://cdn.simpleicons.org/tryhackme/white" width="28" height="28" alt="TryHackMe">
@@ -195,7 +207,7 @@ The final report includes a detailed attack timeline, risk register, and a prior
 
 ## 🤝 Let’s Connect
 
-I'm open to opportunities where I can combine technical security, development, and creative design.  
+I'm open to opportunities where I can combine full‑stack development, technical security, and creative design.  
 📫 **Email:** brianmuse624@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/brian-munyasia-bm5777](https://www.linkedin.com/in/brian-munyasia-bm5777)  
 🌐 **Portfolio:** [munyasia.github.io/Munyasia](https://munyasia.github.io/Munyasia)
