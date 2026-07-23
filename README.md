@@ -64,14 +64,14 @@ I'm a Computer Science graduate with hands‑on experience in **full‑stack dev
 
 ### 🚀 Featured Project — Beliways Adventures
 
-A tours and hotels booking platform covering **77 properties** across Kenyan regions (Nairobi, Mombasa, Lamu, and more), rebuilt and repaired using an AI‑assisted, multi‑agent engineering workflow.
+A tours and hotels booking platform covering **77 properties** across Kenyan regions (Nairobi, Mombasa, Lamu, and more).
 
 Key parts of the build:
 
-- **8‑agent parallel architecture** – designed and coordinated eight Claude Code agents running in parallel, each responsible for auditing and repairing a slice of the property catalog, cutting what would have been a serial fix into a much faster parallel pass.
-- **Reference‑driven content repair** – used bountifulsafaris.com as a structural and content reference to identify and correct broken or incomplete property pages across the site.
-- **MCP‑integrated tooling** – diagnosed and worked around live MCP server connection issues (including a Higgsfield image‑processing outage) as part of keeping the automated workflow running.
-- **Regional data modeling** – organized listings across multiple Kenyan tourism regions with consistent structure for pricing, amenities, and media.
+- **Multi-region property catalog** – structured 77 property listings across multiple Kenyan regions, each with consistent data for pricing, amenities, and media.
+- **Parallel repair workflow** – ran a parallel, multi-track process to audit and fix broken or incomplete property pages across the catalog, cutting the fix time down significantly compared to a serial pass.
+- **Consistent content structure** – standardized property page layout and content across regions so listings stay uniform regardless of property type or location.
+- **Deployment** – deployed on Vercel for fast, reliable delivery.
 
 [![Tours & Hotels Platform](beliways-screenshot.png)](https://beliwaysadventures.vercel.app)
 
