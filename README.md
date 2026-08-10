@@ -11,7 +11,7 @@
 # 😉 Hi, I'm Munyasia, Nice to meet you
 
 **Full‑Stack Developer** · **Cybersecurity Specialist** · **Graphic Designer**  
-*Crafting clean code, securing systems, and creating compelling visuals.*
+*Writing clean code, securing systems, and creating compelling visuals.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-munyasia-bm5777)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianmuse624@gmail.com)
