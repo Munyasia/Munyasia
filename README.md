@@ -225,4 +225,4 @@ The final report includes a detailed attack timeline, risk register, and a prior
 I'm open to opportunities where I can combine full‑stack development, technical security, and creative design.  
 📫 **Email:** brianmuse624@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/brian-munyasia-bm5777](https://www.linkedin.com/in/brian-munyasia-bm5777)  
-🌐 **Portfolio:** [munyasia.github.io/Munyasia](https://munyasia.github.io/Munyasia)
+🌐 **Portfolio:** [portfolio](https://munyasia.vercel.app)
